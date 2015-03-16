@@ -10,7 +10,7 @@
  * [Wolfram|Alpha](https://chrome.google.com/webstore/detail/wolframalpha-official/icncamkooinmbehmkeilcccmoljfkdhp?utm_source=chrome-app-launcher-info-dialog)
 * [Sublime Text](http://www.sublimetext.com/3)
 * [GitHub for Windows](https://windows.github.com/)
-* Visual Studio 2013 Update 4
+* [Visual Studio](https://www.visualstudio.com/) 2013 Update 4
   * All options installed
   * Configured for `General`
   * [Word wrap on](http://stackoverflow.com/a/315511/1233435): `CTRL` + `E` + `W`
