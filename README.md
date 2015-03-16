@@ -1,4 +1,4 @@
-# devstack
+# devstack #
 
 * [Google Chrome](https://www.google.com/chrome/)
  * Advaned REST client
@@ -10,7 +10,6 @@
  * [Wolfram|Alpha](https://chrome.google.com/webstore/detail/wolframalpha-official/icncamkooinmbehmkeilcccmoljfkdhp?utm_source=chrome-app-launcher-info-dialog)
 * [Sublime Text](http://www.sublimetext.com/3)
 * [GitHub for Windows](https://windows.github.com/)
-
 * Visual Studio 2013 Update 4
   * All options installed
   * Configured for `General`
