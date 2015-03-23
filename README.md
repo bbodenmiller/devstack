@@ -14,6 +14,7 @@
   * All options installed
   * Configured for `General`
   * [Word wrap on](http://stackoverflow.com/a/315511/1233435): `CTRL` + `E` + `W`
+  * [Collapse all](http://stackoverflow.com/a/982704/1233435): `CTRL` + `M` + `O`
   * Extensions (other than default)
     * [Web Essentials](http://vswebessentials.com/download)
     * [SideWaffle](http://sidewaffle.com/)
